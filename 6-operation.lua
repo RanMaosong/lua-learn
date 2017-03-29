@@ -1,0 +1,16 @@
+a = 21
+b = 10
+c = a + b
+print("line1 - c=" .. c)
+c = a-b
+print("line2 - c=" .. c)
+c = a * b
+print("line3 - c=" .. c)
+c = a/b
+print("line4 - c="..c)
+c = a% b
+print("line5 - c=" .. c)
+c = a^2
+print("line6 - c=" .. c)
+c = -c
+print("line7 - c=" .. c)
